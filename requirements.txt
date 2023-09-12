@@ -1,0 +1,6 @@
+music21
+librosa
+numpy
+matplotlib
+opencv-python-headless numpy
+pretty_midi
